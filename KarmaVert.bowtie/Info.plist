@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BTThemeName</key>
+	<string>KarmaVert</string>
+	<key>BTThemeArtist</key>
+	<string>Daryl Gubler</string>
+	<key>BTArtistURL</key>
+	<string>http://netthralls.com</string>
+	<key>BTThemeIdentifier</key>
+	<string>com.DarylGubler.Vurtex</string>
+	<key>BTThemeVersion</key>
+	<string>1.0</string>
+	<key>BTMainFile</key>
+	<string>index.html</string>
+	<key>BTThemePreviewImage</key>
+	<string>preview.png</string>
+	<key>BTWindowWidth</key>
+	<integer>240</integer>
+	<key>BTWindowHeight</key>
+	<integer>418</integer>
+	<key>BTArtworkFunction</key>
+	<string>artworkUpdate</string>
+	<key>BTArtworkHeight</key>
+	<integer>220</integer>
+	<key>BTArtworkWidth</key>
+	<integer>220</integer>
+	<key>BTStatusFunction</key>
+	<string>playerUpdate</string>
+	<key>BTTrackFunction</key>
+	<string>trackUpdate</string>
+</dict>
+</plist>
